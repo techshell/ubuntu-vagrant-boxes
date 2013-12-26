@@ -44,5 +44,5 @@ Installation
 License
 ========
 
-Copyright: 2013, Hatim Abdalla.
+Copyright: 2014, Hatim Abdalla.
 Licensed under The MIT License.
