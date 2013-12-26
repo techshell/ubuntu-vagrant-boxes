@@ -1,1 +1,1 @@
-# Vagrant boxes are saved here.
+Vagrant boxes are saved here.
